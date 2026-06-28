@@ -19,7 +19,7 @@ Technologies Used:-
 
 Project Structure:-
 
-sales-data-analysis-project/
+  sales-data-analysis-project/
 ├── README.md
 ├── data_analysis_and_visualization.ipynb
 ├── requirements.txt
